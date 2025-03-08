@@ -1,6 +1,0 @@
-baseURL = 'https://quickstart-8vor.onrender.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme='ananke'
-
- 
